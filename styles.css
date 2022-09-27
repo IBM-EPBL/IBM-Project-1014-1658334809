@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;
+    background-color: rgb(204, 204, 235);
+}
+
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photo-1661956602139-ec64991b8b16.avif");
+    height: 50%;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+}
